@@ -5,12 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Finizens
+    url: https://app.finizens.com
+  - name: Sesame HR (front)
+    url: https://app.sesametime.com
+  - name: Sesame HR (back)
+    url: https://back.sesametime.com
+  - name: Signaturit
+    url: https://app.signaturit.com
+  - name: Pedidos RA
+    url: https://pedidosra.ivsign.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
