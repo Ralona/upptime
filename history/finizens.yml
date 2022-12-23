@@ -1,7 +1,7 @@
 url: https://app.finizens.com
-status: down
-code: 503
-responseTime: 616
-lastUpdated: 2022-12-23T06:08:46.263Z
+status: up
+code: 200
+responseTime: 459
+lastUpdated: 2022-12-23T06:29:19.049Z
 startTime: Thu Nov 03 2022 21:45:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
