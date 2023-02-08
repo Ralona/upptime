@@ -90,18 +90,20 @@
     "url": "https://app.signaturit.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.signaturit.com.ico",
     "slug": "signaturit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1583,
-    "timeDay": 1326,
-    "timeWeek": 1702,
-    "timeMonth": 1534,
-    "timeYear": 1583,
-    "dailyMinutesDown": {}
+    "time": 1574,
+    "timeDay": 1040,
+    "timeWeek": 1583,
+    "timeMonth": 1509,
+    "timeYear": 1574,
+    "dailyMinutesDown": {
+      "2023-02-08": 0
+    }
   },
   {
     "name": "Pedidos RA",
