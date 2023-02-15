@@ -111,19 +111,19 @@
     "url": "https://pedidosra.ivsign.com",
     "icon": "https://icons.duckduckgo.com/ip3/pedidosra.ivsign.com.ico",
     "slug": "pedidos-ra",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1081,
-    "timeWeek": 1201,
-    "timeMonth": 1208,
-    "timeYear": 1209,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1207,
+    "timeDay": 1044,
+    "timeWeek": 1177,
+    "timeMonth": 1201,
+    "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-02-15": 0
+      "2023-02-15": 16
     }
   }
 ]
