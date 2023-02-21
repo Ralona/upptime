@@ -1,7 +1,7 @@
 url: https://app.signaturit.com
-status: up
-code: 200
-responseTime: 2082
-lastUpdated: 2023-02-20T23:17:45.822Z
+status: down
+code: 504
+responseTime: 10974
+lastUpdated: 2023-02-21T05:42:44.219Z
 startTime: Thu Nov 03 2022 21:45:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
