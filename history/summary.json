@@ -120,10 +120,10 @@
     "url": "https://pedidosra.ivsign.com",
     "icon": "https://icons.duckduckgo.com/ip3/pedidosra.ivsign.com.ico",
     "slug": "pedidos-ra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1207,
@@ -132,6 +132,7 @@
     "timeMonth": 1224,
     "timeYear": 1207,
     "dailyMinutesDown": {
+      "2023-03-22": 0,
       "2023-03-15": 23,
       "2023-02-22": 7,
       "2023-02-15": 16
