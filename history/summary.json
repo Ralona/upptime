@@ -22,19 +22,19 @@
     "url": "https://app.finizens.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.finizens.com.ico",
     "slug": "finizens",
-    "status": "down",
+    "status": "up",
     "uptime": "96.05%",
-    "uptimeDay": "6.18%",
-    "uptimeWeek": "0.89%",
-    "uptimeMonth": "77.19%",
+    "uptimeDay": "6.19%",
+    "uptimeWeek": "0.88%",
+    "uptimeMonth": "77.16%",
     "uptimeYear": "96.05%",
-    "time": 516,
-    "timeDay": 489,
-    "timeWeek": 544,
-    "timeMonth": 528,
-    "timeYear": 516,
+    "time": 518,
+    "timeDay": 544,
+    "timeWeek": 564,
+    "timeMonth": 535,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-04-29": 168,
+      "2023-04-29": 181,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -42,7 +42,6 @@
       "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1183,
-      "2023-02-02": 8,
       "2022-12-23": 21
     }
   },
@@ -113,8 +112,7 @@
     "dailyMinutesDown": {
       "2023-03-02": 16,
       "2023-02-28": 17,
-      "2023-02-20": 16,
-      "2023-02-08": 8
+      "2023-02-20": 16
     }
   },
   {
