@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 75,
-    "timeWeek": 77,
+    "time": 118,
+    "timeDay": 261,
+    "timeWeek": 124,
     "timeMonth": 127,
-    "timeYear": 117,
-    "dailyMinutesDown": {}
+    "timeYear": 118,
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   },
   {
     "name": "Finizens",
